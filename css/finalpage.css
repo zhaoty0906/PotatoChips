@@ -1,0 +1,36 @@
+/*!
+ * Start Bootstrap - Shop Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#frame{
+    margin-left: 40%;
+}
+#thank{
+    margin-left: 5%;
+    margin-top: 20%;
+    margin-bottom: 25%;
+    float: right;
+}
+div.background {
+	width:600px;
+	height:400px;
+	margin-left: 20%;
+  background: url(report_card.jpg) repeat;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}

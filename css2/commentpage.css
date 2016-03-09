@@ -1,0 +1,71 @@
+/*!
+ * Start Bootstrap - Shop Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.rateButton a{
+    text-decoration: none;
+}
+
+h2{
+    margin-top: 50px;
+}
+
+.modal-body p{
+  text-align: center;
+  margin:10px auto;
+}
+
+#UserComment p{
+  text-align: left;
+}
+
+.col-md-9{
+    margin-bottom: 5px;
+}
+
+.rateButton input{
+    margin:103px auto;
+}
+
+.rateButton .radio{
+    margin:10px auto;
+}
+
+.rateButton p{
+    margin-left: 25px;
+}
+
+.FunctionButton button{
+    width: 180px;
+}
+
+#leftColumn{
+    margin-top: 20px;
+}
+
+#SubmitButton{
+  width: 100px;
+  margin-bottom: 50px;
+  margin-left: 80px;
+  background-color: green;
+}
+
+#CommentButton{
+  width: 100px;
+  margin-bottom: 50px;
+  background-color: green;
+}
+
+#FunctionButton{
+  margin:15px 55px;
+}
+#DetailButton{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
